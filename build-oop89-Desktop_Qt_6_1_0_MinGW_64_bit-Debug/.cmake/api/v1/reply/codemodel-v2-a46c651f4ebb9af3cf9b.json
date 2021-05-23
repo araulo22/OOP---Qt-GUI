@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "oop89",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "oop89::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oop89-Debug-77542be6d542a1f1c2cf.json",
+					"name" : "oop89",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "oop89_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oop89_autogen-Debug-2856175ea59f359b64db.json",
+					"name" : "oop89_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "oop89_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oop89_autogen_timestamp_deps-Debug-7de2c75c6478df335e48.json",
+					"name" : "oop89_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Uni stuff/OOP/89/build-oop89-Desktop_Qt_6_1_0_MinGW_64_bit-Debug",
+		"source" : "D:/Uni stuff/OOP/89/oop89"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
